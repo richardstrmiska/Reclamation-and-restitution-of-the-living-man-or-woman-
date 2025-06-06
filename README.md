@@ -35,7 +35,7 @@ INSTRUCTIONS TO SOVEREIGN:
 - Anchor the PDF version to IPFS
 - Upload both documents to the GitHub archive
 - Update your estate ledger to reflect: “REBUTTED & RECORDED”
-
+[![Guardian Flame – Child Protection Vault](https://img.shields.io/badge/UC--1%20Guardian-Child%20Protection%20Active-red?style=for-the-badge&logo=trustpilot)](https://bafkreidiarrhkm2yc3swthaxnqmt777b6iw3xopcoodt6wbrjqbqo5sz2y.ipfs.w3s.link/)
 ---
 
 Signed under full authority,
